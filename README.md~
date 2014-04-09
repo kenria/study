@@ -17,7 +17,3 @@ git push origin master
 
 6. 从服务器拉代码
 git pull
-
-参考网址：
-http://my.eoe.cn/curious/archive/3563.html
-http://www.bootcss.com/p/git-guide/
